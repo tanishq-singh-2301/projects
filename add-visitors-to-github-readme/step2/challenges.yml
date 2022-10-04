@@ -1,0 +1,7 @@
+name: "Create a new push"
+stepId: step2
+stepBreakDown:
+  - text: "Set git global configuration (like name, email)"
+  - text: "git add README.md"
+  - text: "git add data.json"
+  - text: "git push"
