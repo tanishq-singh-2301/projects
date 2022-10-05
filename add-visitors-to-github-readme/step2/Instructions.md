@@ -1,4 +1,4 @@
-# _**Create a new push**_
+# _**Step2: Create a new push**_
 
 [_**Working Demo**_](https://github.com/tanishq-singh-2301/add-visitors-to-github-readme)
 

@@ -1,4 +1,4 @@
-name: "Create a new push"
+name: "Create a new push from workflow"
 stepId: step2
 stepBreakDown:
   - text: "Set git global configuration (like name, email)"
