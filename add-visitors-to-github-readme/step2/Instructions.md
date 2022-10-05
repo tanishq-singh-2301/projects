@@ -13,20 +13,21 @@
   git config --global user.email "your-github-username@users.noreply.github.com"
   ```
 
-- _**Add README.md**_
+- _**Add files `data.json` and `README.md`**_
 
   ```yml
   git add README.md
+  git add data.json
   ```
 
-- _**Add data.json**_
+- _**Commit new changes**_
 
   ```yml
-  git add data.json
+  git commit -m 'Github: `new name add`' 
   ```
 
 - _**Push**_
 
   ```yml
-  git push
+  git push origin main
   ```
